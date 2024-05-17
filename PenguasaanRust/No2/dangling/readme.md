@@ -1,0 +1,3 @@
+# Dangling
+
+Dangling reference terjadi ketika sebuah referensi masih ada, tetapi data yang direferensikan telah dihapus dari memori. Hal ini dapat terjadi ketika referensi masih memiliki akses ke data yang seharusnya sudah tidak ada, yang dapat menyebabkan perilaku yang tidak terduga atau kegagalan program. Rust mencegah dangling reference dengan aturan peminjaman dan aturan kepemilikan yang ketat.

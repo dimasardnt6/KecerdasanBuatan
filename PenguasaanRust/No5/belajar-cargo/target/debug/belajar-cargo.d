@@ -1,0 +1,1 @@
+C:\Users\user\Documents\KULIAH\SEMESTER\ 6\Artificial\ Inteligence\KecerdasanBuatan\PenguasaanRust\no5\belajar-cargo\target\debug\belajar-cargo.exe: C:\Users\user\Documents\KULIAH\SEMESTER\ 6\Artificial\ Inteligence\KecerdasanBuatan\PenguasaanRust\no5\belajar-cargo\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\user\Documents\KULIAH\SEMESTER\ 6\Artificial\ Inteligence\KecerdasanBuatan\PenguasaanRust\no5\test-cargorun\target\debug\test-cargorun.exe: C:\Users\user\Documents\KULIAH\SEMESTER\ 6\Artificial\ Inteligence\KecerdasanBuatan\PenguasaanRust\no5\test-cargorun\src\main.rs
